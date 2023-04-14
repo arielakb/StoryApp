@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name" translatable="false">Story App</string>
+    <string name="new_to_story">New to Story?</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="press_again_to_exit">Press again to exit</string>
+    <string name="person_illustration">Person illustration</string>
+    <string name="login_title">let\'s sign in</string>
+    <string name="login_message">Explore further to see stories from your friends</string>
+    <string name="email">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="register_title" translatable="false">Let\'s create an account</string>
+    <string name="register_message" translatable="false">Let\'s create an account for you </string>
+    <string name="name" translatable="false">Full name</string>
+    <string name="textinput_email_warning" translatable="false">Invalid Email</string>
+    <string name="login_success_message" translatable="false">Login success</string>
+    <string name="dummy_name" translatable="false">Ariel akbar</string>
+    <string name="dummy_description" translatable="false">Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsu....</string>
+    <string name="story_s_illustration" translatable="false">Story\'s illustration</string>
+    <string name="stories" translatable="false">Story App</string>
+    <string name="logout" translatable="false">Logout</string>
+    <string name="textinput_password_warning" translatable="false">Passwords is less than 6 characters</string>
+    <string name="registration_error_message" translatable="false">Registration failed, please try again.</string>
+    <string name="registration_success" translatable="false">Registration success</string>
+    <string name="login_error_message" translatable="false">Login failed, please try again.</string>
+    <string name="email_input_warning" translatable="false">Please fill your email</string>
+    <string name="password_input_warning" translatable="false">Please fill your password</string>
+    <string name="login_input_warning" translatable="false">Please fill your email and password correctly</string>
+    <string name="create_story" translatable="false">Create story</string>
+    <string name="error_occurred_message" translatable="false">An error occurred</string>
+    <string name="story_illustration" translatable="false">Story illustration</string>
+    <string name="detail_toolbar_title" translatable="false">%s\'s story</string>
+    <string name="no_data" translatable="false">No data</string>
+    <string name="stories_not_found" translatable="false">Stories not found</string>
+    <string name="add_story_title" translatable="false">Add Story</string>
+    <string name="upload_story" translatable="false">Upload Story</string>
+    <string name="person_illustration2" translatable="false">Person with mobile</string>
+    <string name="select_image" translatable="false">Select image from</string>
+    <string name="select_from_camera" translatable="false">Camera</string>
+    <string name="select_from_gallery" translatable="false">Gallery</string>
+    <string name="write_a_description" translatable="false">Write a description</string>
+    <string name="desc_empty_field_error" translatable="false">Please fill the description field</string>
+    <string name="empty_image_error" translatable="false">Please select an image</string>
+    <string name="image_upload_failed" translatable="false">Story upload failed</string>
+    <string name="story_upload" translatable="false">Story uploaded</string>
+    <string name="language_setting" translatable="false">Language Setting</string>
+    <string name="btn_upload_story" translatable="false">Upload Story</string>
+    <string name="title_activity_home" translatable="false">Story App</string>
+    <string name="stories_not_found_error" translatable="false">Stories not found</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="location" translatable="false">Location</string>
+    <string name="share_location" translatable="false">Share location</string>
+    <string name="location_permission_denied" translatable="false">Location permission not allowed</string>
+    <string name="location_permission_denied_action" translatable="false">Change Setting</string>
+    <string name="retry" translatable="false">Retry</string>
+    <string name="loading_error_message" translatable="false">Unable to fetch stories data</string>
+    <string name="logout_dialog_title" translatable="false">Are you sure?</string>
+    <string name="logout_dialog_message" translatable="false">You need to login again after logout</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="logout_message_success" translatable="false">Logged out successfully</string>
+    <string name="please_activate_location_message" translatable="false">Please activate your location services</string>
+</resources>
+
+
